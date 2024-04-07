@@ -1,4 +1,4 @@
-<h2 align="center">[IJCAI 2024] EvDiff: Event-driven Motion-aware Diffusion for Joint Low-Light Enhancement and Deblurring</h2>
+<h2 align="center"> EvDiff: Event-driven Motion-aware Diffusion for Joint Low-Light Enhancement and Deblurring</h2>
 
 <hr />
 
